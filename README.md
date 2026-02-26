@@ -1,6 +1,3 @@
-# UcakRezervasyonProjesi
-EMRAH SARIÇİÇEK Final Ödevi Uçak Rezervasyon Özellikler: Uçak Entity Class Listelenmesi, Lokasyon, Uçuş, Rezervasyon
-
 Özellikler:
 
 - Uçak tanımlama ve listeleme
@@ -50,5 +47,3 @@ Program konsol üzerinden aşağıdaki adımlarla kullanılabilir:
 1. Projeyi bir Java IDE ile açın.
 2. Main.java dosyasını çalıştırın.
 3. Konsol üzerinden menü seçeneklerini takip ederek sistemi kullanın.
-
-**Efe Düzçay**
